@@ -1,0 +1,6 @@
+EMAIL = {
+    "remetente": "",
+    "smtp": "",
+    "usuario": "",
+    "senha": ""
+}

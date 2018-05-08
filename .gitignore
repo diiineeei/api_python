@@ -1,0 +1,7 @@
+.idea
+*.pyc
+venv/*
+__pycache__/
+config/email.py
+config/api.py
+app.log
